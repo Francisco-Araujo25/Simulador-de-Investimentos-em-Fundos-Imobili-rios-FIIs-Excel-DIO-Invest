@@ -24,4 +24,7 @@ Visual interativo: gráficos automáticos para facilitar a análise.
 
 💡 Objetivo do projeto
 Automatizar cálculos financeiros complexos, proporcionando ao usuário uma visão clara e estratégica sobre seus investimentos em FIIs, auxiliando na tomada de decisão baseada em dados.
-🚀 Tecnologias e conceitos aplicados Excel Avançado: fórmulas, funções financeiras e gráficos dinâmicos.  Educação Financeira: entendimento de rendimento composto e alocação de ativos.  GitHub: versionamento e documentação técnica do projeto.
+🚀 Tecnologias e conceitos aplicados 
+Excel Avançado: fórmulas, funções financeiras e gráficos dinâmicos.  
+Educação Financeira: entendimento de rendimento composto e alocação de ativos.  
+GitHub: versionamento e documentação técnica do projeto.
